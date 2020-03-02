@@ -8,7 +8,7 @@ This is a Discord Bot, that has generalized code that is used to interact with g
 Primary objective was to gain foundational skills writing in .py and creating a simplistic back-end console bot to assist users in their discord community, was a good opportunity for me to practice and enhance my knowledge in.
 ### Prerequisites
 
-:black_small_square: IDE used - Microsoft Visual Studios Code 1.42
+:black_small_square: Text Editor used - Microsoft Visual Studios Code 1.42
 <br>
 
 ## Deployment
