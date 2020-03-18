@@ -113,4 +113,4 @@ async def on_member_remove(member):
         print(f'{member} has left a server.')
 
 #Where Discord Token is put into account
-client.run('NTg0OTY2ODA0MzgwNzEyOTY0.XPjApA.yBB2R-UoOQyGuuCF0EUbhoh8jgo')
+client.run('Where your token is inserted')
