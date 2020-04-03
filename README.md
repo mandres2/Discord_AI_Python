@@ -1,4 +1,4 @@
-# "Discord AI Bot Written in Python"
+# "Volpe Bot"
 
 <h3>What is this application?</h3>
 
