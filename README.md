@@ -1,4 +1,4 @@
-# "Volpe Bot"
+# Discord Bot
 
 <h3>What is this application?</h3>
 
